@@ -1,0 +1,15 @@
+C:\Учёба\2 курс\ООП\Лаба 1\lab 1\bin\Debug\net10.0\lab 1.exe
+C:\Учёба\2 курс\ООП\Лаба 1\lab 1\bin\Debug\net10.0\lab 1.deps.json
+C:\Учёба\2 курс\ООП\Лаба 1\lab 1\bin\Debug\net10.0\lab 1.runtimeconfig.json
+C:\Учёба\2 курс\ООП\Лаба 1\lab 1\bin\Debug\net10.0\lab 1.dll
+C:\Учёба\2 курс\ООП\Лаба 1\lab 1\bin\Debug\net10.0\lab 1.pdb
+C:\Учёба\2 курс\ООП\Лаба 1\lab 1\obj\Debug\net10.0\lab 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Учёба\2 курс\ООП\Лаба 1\lab 1\obj\Debug\net10.0\lab 1.AssemblyInfoInputs.cache
+C:\Учёба\2 курс\ООП\Лаба 1\lab 1\obj\Debug\net10.0\lab 1.AssemblyInfo.cs
+C:\Учёба\2 курс\ООП\Лаба 1\lab 1\obj\Debug\net10.0\lab 1.csproj.CoreCompileInputs.cache
+C:\Учёба\2 курс\ООП\Лаба 1\lab 1\obj\Debug\net10.0\lab 1.dll
+C:\Учёба\2 курс\ООП\Лаба 1\lab 1\obj\Debug\net10.0\refint\lab 1.dll
+C:\Учёба\2 курс\ООП\Лаба 1\lab 1\obj\Debug\net10.0\lab 1.pdb
+C:\Учёба\2 курс\ООП\Лаба 1\lab 1\obj\Debug\net10.0\lab 1.genruntimeconfig.cache
+C:\Учёба\2 курс\ООП\Лаба 1\lab 1\obj\Debug\net10.0\ref\lab 1.dll
+C:\Учёба\2 курс\ООП\Лаба 1\lab 1\obj\Debug\net10.0\lab 1.csproj.Up2Date
